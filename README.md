@@ -1,0 +1,2 @@
+# mujPrvniRepozitar
+velke cviceni
